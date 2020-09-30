@@ -3,7 +3,7 @@
 .NOTES Please add the vCenter server IP/credetails as per your environment
 .NOTES Please change the values for '-User' per your environment.
 .NOTES Developer : Yashodhan Atre
-.NOTES Developer Email : yash.atre@digitalsense.com.au
+.NOTES Developer Email : yashatre.code@gmail.com
 #>
 
 $SecretFile = "data.conf"
