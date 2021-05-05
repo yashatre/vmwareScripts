@@ -1,1 +1,1 @@
-Connect-VIServer ds-ken-daasvc04.digitalsense.com.au
+Connect-VIServer <vCenterSrver>
