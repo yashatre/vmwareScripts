@@ -1,7 +1,7 @@
 <#
 Script Name : uninstallVMwareModules.ps1
 Version		: 1.0 
-Developer	: Yashodhan Atre [yash.atre@team.aussiebroadband.com.au]
+Developer	: Yashodhan Atre
 Usage		: Check for VMware PowerCLI packages and install
 Scope		: Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 Code Disclaimer:
