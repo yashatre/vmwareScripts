@@ -1,7 +1,7 @@
 <#
 Script Name : enableSyncTimeWithHost.ps1
 Version		: 1.0 
-Developer	: Yashodhan Atre [yash.atre@digitalsense.com.au]
+Developer	: Yashodhan Atre
 Usage		: 
 This utility turns on the feature to sync guest time with the respective ESXi host. 
 
