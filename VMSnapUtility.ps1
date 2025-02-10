@@ -1,7 +1,7 @@
 <#
 Script Name : VMSnapUtility.ps1
 Version		: 1.0 
-Developer	: Yashodhan Atre [yash.atre@digitalsense.com.au]
+Developer	: Yashodhan Atre
 Usage		: 
 This is a utility to automate features around VMware vCenter Snapshots. 
 This is a menu driven utility and user can select the workflow according to the need. 
