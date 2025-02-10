@@ -1,7 +1,7 @@
 <#
 Script Name : getCPUMemAvgForVMs.ps1
 Version		: 1.0 
-Developer	: Yashodhan Atre [yash.atre@digitalsense.com.au]
+Developer	: Yashodhan Atre
 Usage		: 
 This utility helps user to fetch data/information regarding VMs average usage of CPU (in MHz) and Memory(in %) over a given period of time/days.
 Utility is menu driven to facilitate users to select the kind of information they need to fetch from the system. 
