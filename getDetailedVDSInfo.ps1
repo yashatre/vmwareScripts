@@ -1,7 +1,7 @@
 <#
 Script Name : getDetailedVDSInfo.ps1
 Version		: 1.0 
-Developer	: Yashodhan Atre [yash.atre@digitalsense.com.au]
+Developer	: Yashodhan Atre
 Usage		: 
 This utility fetches details of all VDS (Virtual Distributed Switch) in the vCenter Server.
 The inventory collected has information about VDS Name, Datacenter, Version, Numer Esx Hosts connected, 
