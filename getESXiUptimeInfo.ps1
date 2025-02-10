@@ -1,7 +1,7 @@
 <#
 Script Name : getESXiUptimeInfo.ps1
 Version		: 1.0 
-Developer	: Yashodhan Atre [yash.atre@digitalsense.com.au]
+Developer	: Yashodhan Atre
 Usage		: 
 This utility helps user to fetch data/information regarding uptime of each ESXi server present in the vCenter Server environment.
 
