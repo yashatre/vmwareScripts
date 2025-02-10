@@ -1,7 +1,7 @@
 <#
 Script Name : NTPUtilityForESXiHosts.ps1
 Version		: 1.0 
-Developer	: Yashodhan Atre [yash.atre@digitalsense.com.au]
+Developer	: Yashodhan Atre
 Usage		: 
 This utility helps user to verify, set and remove NTP servers set on all the ESXi hosts in a vCenter Server Datacenter . 
 
