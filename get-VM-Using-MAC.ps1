@@ -1,0 +1,1 @@
+Get-VM | Get-NetworkAdapter | Where {$_.MacAddress -eq “00:50:56:9c:2b:5f”} | Select-Object Parent,Name,MacAddress

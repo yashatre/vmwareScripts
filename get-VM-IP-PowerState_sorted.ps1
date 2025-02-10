@@ -1,0 +1,2 @@
+Get-VM | Sort-Object -Property Name | Select -Property Name,@{N="IP Address";E={@($_.guest.IPAddress[0])}},@{Name='Cluster';Expression={$_.VMHost.Parent}},PowerState |
+Export-Csv -Path .\vm-ip-list.csv -NoTypeInformation -UseCulture
