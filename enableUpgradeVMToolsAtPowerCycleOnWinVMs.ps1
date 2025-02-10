@@ -1,7 +1,7 @@
 <#
 Script Name : enableUpgradeVMToolsAtPowerCycleOnWinVMs.ps1
 Version		: 1.0 
-Developer	: Yashodhan Atre [yash.atre@digitalsense.com.au]
+Developer	: Yashodhan Atre
 Usage		: 
 This utility turns on the feature to install a new version of the VMware tools when a Windows host reboots. 
 
