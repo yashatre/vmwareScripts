@@ -2,7 +2,7 @@
 Title: 
 Script Name : EmailOldSnapshotInfo.ps1
 Version		: 1.0 
-Developer	: Yashodhan Atre [yash.atre@digitalsense.com.au]
+Developer	: Yashodhan Atre
 Description: List Snapshots older than x days and then email it as an attachment
 Requirements: Windows Powershell with PowerCLI installed
 Usage: .\EmailOldSnapshotInfo.ps1
